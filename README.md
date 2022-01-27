@@ -1,1 +1,1 @@
-# Bulk Emaiil Sender 
+# Bulk Email Sender 
